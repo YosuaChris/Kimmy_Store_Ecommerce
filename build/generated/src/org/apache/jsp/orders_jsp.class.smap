@@ -1,0 +1,38 @@
+SMAP
+orders_jsp.java
+JSP
+*S JSP
+*F
++ 0 orders.jsp
+orders.jsp
++ 1 head.jsp
+include/head.jsp
++ 2 navbar.jsp
+include/navbar.jsp
++ 3 footer.jsp
+include/footer.jsp
+*L
+1,8:57
+10,17:65
+26,5:82
+1#1,7:87
+30#0,5:94
+1#2,14:99
+15,2:114
+16:116
+17:117,3
+18,3:120
+21,2:124
+22,4:126
+26,2:131
+27,5:133
+34#0,17:138
+50,2:155
+51,2:157
+53,6:159,3
+59,2:177
+60,3:179
+62,7:182
+1#3,3:189
+68#0,3:192
+*E
